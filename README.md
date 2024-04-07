@@ -1,3 +1,6 @@
+# NAME:PRADEEP V
+# REG NO:212223240119
+
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -51,11 +54,13 @@ endmodule
 
 
 
-
+```
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: Pradeep V RegisterNumber:212223240119
+Developed by: Pradeep V 
+RegisterNumber:212223240119
 */
+```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![318334089-9b77a222-13f5-4514-aeb1-5f582ec840ca](https://github.com/velupradeep/ENCODER8TO3DATAFLOW/assets/150329341/5919d482-9ae3-430d-bcbf-e2b79d4bd8de)
