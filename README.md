@@ -57,7 +57,7 @@ endmodule
 ```
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: Pradeep V 
+Developed by: PRADEEP V
 RegisterNumber:212223240119
 */
 ```
